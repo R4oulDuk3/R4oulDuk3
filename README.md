@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @R4oulDuk3
 - 👀 I’m interested internships and expanding my current knowledge
-- 🌱 I’m currently learning Flutter, Machine Learning and soon game development
 - 📫 How to reach me: You can reach me with my email: gavrilovojteski37@gmail.com
 
 <!---
